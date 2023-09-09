@@ -15,6 +15,6 @@ git add .
 git commit -m "%COMMIT_MESSAGE%"
 
 :: Push to the remote repository (change origin and branch as needed)
-git push origin master
+git push origin main
 
 endlocal
