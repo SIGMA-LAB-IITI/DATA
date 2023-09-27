@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header("Laser Precipitation Monitor (LPM)")
+st.header("./Laser Precipitation Monitor (LPM)")
 
 col1, col2 = st.columns([1,2])
 
