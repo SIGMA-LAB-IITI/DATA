@@ -5,7 +5,7 @@ st.header("LIDAR Ceilometer")
 col1, col2, col3 = st.columns([1,1,2])
 
 with col1:
-    st.image("/Users/snande/Personal/Projects/dataDisplay/LIDAR Ceilometer (BL View)/CM.jpeg")
+    st.image("./LIDAR Ceilometer (BL View)/CM.jpeg")
     
 with col2:
     st.image("/Users/snande/Personal/Projects/dataDisplay/LIDAR Ceilometer (BL View)/PXL_20230310_080803224.jpeg")
