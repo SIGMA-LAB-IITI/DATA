@@ -13,7 +13,7 @@ st.markdown(
 )
 
 # Add a logo at the top left corner
-st.sidebar.image("logo.png", width=150)  # Replace "logo.png" with the path to your logo image
+st.sidebar.image("Indian_Institute_of_Technology,_Indore_Logo.png", width=150)  # Replace "logo.png" with the path to your logo image
 
 st.title("SIGMA Research Lab")
 st.write("Space Science ||  Climate Informatics  ||   GPS/GNSS  ||   Radar Meteorology ||  Atmospheric Remote Sensing")
