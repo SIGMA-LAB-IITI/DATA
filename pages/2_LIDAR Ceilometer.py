@@ -19,4 +19,4 @@ st.subheader("Near Real Time Data Display")
 
 st.write("image generation ka time")
 
-st.image("/Users/snande/Personal/Projects/dataDisplay/CL_SS.png")
+st.image("CL_SS.png")
