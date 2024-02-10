@@ -2,7 +2,7 @@
 setlocal
 
 :: Change this to your actual repository path
-set REPO_PATH=C:\Users\SIGMA-W-VT\DATA
+set REPO_PATH=D:\SIGMA_DATA\DATA
 
 :: Change this to your desired commit message
 set COMMIT_MESSAGE=Automatic commit
